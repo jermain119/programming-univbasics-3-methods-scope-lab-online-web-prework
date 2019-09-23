@@ -15,7 +15,7 @@ phrase =  "It's Dangerous To Go Alone! Take This."
 puts phrase
 end
 
-def 
+def any_phrase
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 phrase = "Do A Barrel Roll!"
 puts phrase
